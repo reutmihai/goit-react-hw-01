@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reutmihai/goit-react-hw-01.git/static/css/main.7acaea2f.css",
+    "main.js": "/reutmihai/goit-react-hw-01.git/static/js/main.d61b9b81.js",
+    "index.html": "/reutmihai/goit-react-hw-01.git/index.html",
+    "main.7acaea2f.css.map": "/reutmihai/goit-react-hw-01.git/static/css/main.7acaea2f.css.map",
+    "main.d61b9b81.js.map": "/reutmihai/goit-react-hw-01.git/static/js/main.d61b9b81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.d61b9b81.js"
+  ]
+}
