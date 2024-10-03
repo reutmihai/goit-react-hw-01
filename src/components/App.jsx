@@ -1,10 +1,12 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 import Profile from './Profile';
 import user from '../user.json';
+
+const isProduction = process.env.NODE_ENV === 'production';
 export const App = () => {
   return (
     <>
-      <BrowserRouter basename="/reutmihai/goit-react-hw-01">
+      <BrowserRouter basename={isProduction ? '/goit-react-hw-01' : ''}>
         <Profile
           username={user.username}
           tag={user.tag}
