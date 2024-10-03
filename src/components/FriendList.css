@@ -1,0 +1,30 @@
+
+.friend-item {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+    padding: 10px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    margin-left: 30px;
+}
+
+.friend-name, .status {
+    display: flex;
+    align-items: center;
+}
+
+.status {
+  font-size: 25px; 
+  display: flex;
+}
+
+.online {
+  color: green; 
+}
+
+.offline {
+  color: red; 
+}
