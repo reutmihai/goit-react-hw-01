@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//reutmihai/goit-react-hw-01.github.io/static/css/main.dfacef7f.css",
-    "main.js": "//reutmihai/goit-react-hw-01.github.io/static/js/main.58ef7641.js",
-    "index.html": "//reutmihai/goit-react-hw-01.github.io/index.html",
-    "main.dfacef7f.css.map": "//reutmihai/goit-react-hw-01.github.io/static/css/main.dfacef7f.css.map",
-    "main.58ef7641.js.map": "//reutmihai/goit-react-hw-01.github.io/static/js/main.58ef7641.js.map"
+    "main.css": "/reutmihai/goit-react-hw-01.github.io/static/css/main.dfacef7f.css",
+    "main.js": "/reutmihai/goit-react-hw-01.github.io/static/js/main.58ef7641.js",
+    "index.html": "/reutmihai/goit-react-hw-01.github.io/index.html",
+    "main.dfacef7f.css.map": "/reutmihai/goit-react-hw-01.github.io/static/css/main.dfacef7f.css.map",
+    "main.58ef7641.js.map": "/reutmihai/goit-react-hw-01.github.io/static/js/main.58ef7641.js.map"
   },
   "entrypoints": [
     "static/css/main.dfacef7f.css",
