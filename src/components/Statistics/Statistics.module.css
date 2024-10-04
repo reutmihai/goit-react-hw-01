@@ -24,6 +24,6 @@
 }
 
 .statistics {
-    width: 353px;
+    max-width: 370px;
     margin-left: 30px;
 }
