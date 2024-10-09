@@ -12,15 +12,7 @@ import './App.css';
 const isProduction = process.env.NODE_ENV === 'production';
 export const App = () => {
   return (
-    <div 
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'}}
-      >
+    <>
       <BrowserRouter basename={isProduction ? '/goit-react-hw-01' : ''}>
         <Profile
           username={user.username}
@@ -34,6 +26,6 @@ export const App = () => {
         <FriendList friends={friends} />
         <TransactionHistory items={transactions} />;
       </BrowserRouter>
-    <div/>
+    <>
   );
 };
